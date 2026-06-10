@@ -1,16 +1,25 @@
-## Hi there 👋
+ I'm Kami Deepika
 
-<!--
-**deepikadeepu847/deepikadeepu847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on IoT and AI-based projects
+* 🌱 I’m currently learning Full Stack Development and Data Structures
+* 👯 I’m looking to collaborate on Java and Web Development projects
+* 🤔 I’m looking for help with Open Source contributions
+* 💬 Ask me about Java, Python, DBMS, and Web Development
+* ⚡ Fun fact: I enjoy coding and learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+* Java
+* Python
+* C
+* DBMS
+* Web Development
+
+## 🚀 Projects
+
+* Predictive Maintenance of Industrial Equipment
+* Intelligent Baby Surveillance and Activity Analysis Platform
+
+⭐ Always eager to learn and build innovative solutions.
